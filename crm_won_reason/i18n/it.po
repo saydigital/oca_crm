@@ -44,7 +44,7 @@ msgstr "Seleziona motivo perdita"
 #. module: crm_won_reason
 #: model:ir.model,name:crm_won_reason.model_crm_lead_won
 msgid "Get Won Reason"
-msgstr "Seleziona motivo vincita"
+msgstr "Seleziona motivo vittoria"
 
 #. module: crm_won_reason
 #: model:ir.model.fields,field_description:crm_won_reason.field_crm_lead_won__id
@@ -79,17 +79,17 @@ msgstr "Persa"
 #. module: crm_won_reason
 #: model:ir.model.fields,field_description:crm_won_reason.field_crm_lead_lost__lost_reason_id
 msgid "Lost Reason"
-msgstr "Motivo dell'insuccesso"
+msgstr "Motivo della perdita"
 
 #. module: crm_won_reason
 #: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_view_form
 msgid "Mark as won"
-msgstr "Segna come successo"
+msgstr "Segna come vinta"
 
 #. module: crm_won_reason
 #: model:ir.model,name:crm_won_reason.model_crm_lost_reason
 msgid "Opp. Lost Reason"
-msgstr "Motivo insuccesso opportunità"
+msgstr "Motivo perdita opportunità"
 
 #. module: crm_won_reason
 #: model:ir.model.fields,field_description:crm_won_reason.field_crm_lost_reason__reason_type
@@ -104,17 +104,17 @@ msgstr "Invia"
 #. module: crm_won_reason
 #: model:ir.actions.act_window,name:crm_won_reason.crm_lead_win_action
 msgid "Win Reason"
-msgstr "Morivo successo"
+msgstr "Motivo della vittoria"
 
 #. module: crm_won_reason
 #: model:ir.model.fields.selection,name:crm_won_reason.selection__crm_lost_reason__reason_type__won
 #: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_view_form
 msgid "Won"
-msgstr "Successo"
+msgstr "Vinta"
 
 #. module: crm_won_reason
 #: model:ir.model.fields,field_description:crm_won_reason.field_crm_lead__won_reason_id
 #: model:ir.model.fields,field_description:crm_won_reason.field_crm_lead_won__won_reason_id
 #: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_win_view_form
 msgid "Won Reason"
-msgstr "Morivo successo"
+msgstr "Motivo della vittoria"
